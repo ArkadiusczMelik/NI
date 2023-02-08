@@ -1,0 +1,54 @@
+.nav{
+    display: flex;
+    background-color: black;
+    height: 150px;
+    flex-wrap: wrap;
+   
+}
+.header{
+display: flexbox;
+}
+
+.item{
+    margin-left: 80px;
+    margin-top: 57px;
+    display: inline-block;
+
+}
+.link-wrapper{
+
+display: flex;
+
+}
+.item a{
+font-size: 24px;
+font-family: 'Verdana';
+
+
+color: aliceblue;
+}
+.header img{
+
+    width: auto;
+    height: auto;
+
+}
+.itemHeader{
+
+    display: inline-block;
+    margin-top: 25px;
+
+}
+.app-header{
+
+    font-family: 'Verdana';
+font-size: 32px;
+
+
+background: linear-gradient(64.4deg, #5FBADF 46.57%, rgba(202, 34, 230, 0.65) 77.15%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+
+
+}

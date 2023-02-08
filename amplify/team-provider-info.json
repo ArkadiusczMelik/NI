@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-niar-dev-124141-authRole",
+      "UnauthRoleArn": "arn:aws:iam::923087927009:role/amplify-niar-dev-124141-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::923087927009:role/amplify-niar-dev-124141-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-niar-dev-124141-deployment",
+      "UnauthRoleName": "amplify-niar-dev-124141-unauthRole",
+      "StackName": "amplify-niar-dev-124141",
+      "StackId": "arn:aws:cloudformation:us-east-1:923087927009:stack/amplify-niar-dev-124141/2b2c7050-9bb2-11ed-aeea-12584d16e9a7",
+      "AmplifyAppId": "d1fvwaa88mazpd"
+    },
+    "categories": {
+      "auth": {
+        "niar": {}
+      }
+    }
+  }
+}
