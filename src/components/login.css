@@ -1,0 +1,28 @@
+body
+{
+    background: linear-gradient(180deg, #01fdf1, #9603f8, #016efd, #04f8d0);
+	background-size: 400% 400%;
+	animation: gradient 10s ease infinite;
+
+
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 50% 0%;
+	}
+	50% {
+		background-position: 50% 100%;
+	}
+	100% {
+		background-position: 50% 0%;
+	}
+}
+
+
+.data-amplify-container{
+    display: flexbox;
+    margin-top: 400px;
+    margin-left: 300px;
+
+}
