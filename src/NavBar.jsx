@@ -1,6 +1,6 @@
 import React from 'react';
 import './NavBar.css';
-import ray from './img/ray.svg';
+import ray from './img/ni.png';
 const NavBar = ()=>{
 
 return <header className='header'>

@@ -1,0 +1,18 @@
+.app-header{
+
+    font-family: 'Verdana';
+font-size: 32px;
+
+
+background: linear-gradient(64.4deg, #5FBADF 46.57%, rgba(202, 34, 230, 0.65) 77.15%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+
+
+}
+
+.menu-item{
+
+    color: aliceblue;
+}
